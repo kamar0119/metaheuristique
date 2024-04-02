@@ -1,7 +1,6 @@
-width (W) and height (H) of bins
 W: 10
 H: 10
-Items width (w) and (height): 
+
 w: 5
 h: 9
 
